@@ -108,6 +108,10 @@ Exercise focused on analyzing requirements and documenting specifications. From 
 - For the output, please expose it via a reverse proxy using Pinggy, VS Code Tunnel, Ngrok, or any other tool you're comfortable with. There should be two accessible endpoints:
     - `/swagger` to display the Swagger UI (API Document)
     - `/swagger.json` to provide the swagger.json file for import
+- Reverse proxy lists:
+    - https://pinggy.io/
+    - https://ngrok.com/
+    https://developers.cloudflare.com/cloudflare-one/connections/connect-networks/get-started/create-remote-tunnel/
 - Sequence diagram (mermaid format).
 
 **Other Task**:
