@@ -60,3 +60,5 @@ You will receive a testcase.csv file along with the backend code server.js. Your
 
 ## Workshop 6: Code Review
 **Objective**: Identify and fix problems in the provided code samples.
+
+- Test the code samples
