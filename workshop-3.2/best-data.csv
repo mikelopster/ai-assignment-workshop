@@ -1,0 +1,202 @@
+record_id,first_name,last_name,email,registration_date,gender,age,city,country,subscription_tier,last_login_date,total_spent_thb,is_active,notes
+REC001,  John,Doe,john.doe@example.com,2022-01-15,Male,30,Bangkok,Thailand,Premium,2023-10-26,1500.50,TRUE,
+REC002,Jane  ,Smith,jane.smith@example.co.uk,12/05/2021,Female,25, Chiang Mai,Thailand,Basic,2023-10-25,500,1,Call back
+REC003,Somchai,Boonmee,somchai_b@domain.th,2023-Mar-01,M,-5,Phuket,THAILAND,Gold,2023-09-15,2500.00,Yes,N/A
+REC004,Alice,Wonderland,alice@wonder.net,2021-11-30,female,42,BKK,Thailand,premium,2023-10-20,,0,
+REC005,NULL,Johnson,b.johnson@work.com,2022-07-07,Man,150,New York,USA,Basic,,120.75,FALSE,
+REC006,David,Lee,david.lee@email.com,2023-02-28, male ,35,Singapore,Singapore,Gold,2023-10-22,$750.00,True,VIP
+REC007,Maria,Garcia,maria.g@test.es,2022-09-10,F,28,Madrid,Spain,basic,2023-10-01,"300,25",No,
+REC008,Kenji,Tanaka,kenji.t@jp.co,2024-12-01,MALE,45,Tokyo,Japan,Premium,2023-10-15,50000,1,Future Reg
+REC009,Anya,Forger,anya.f@spyfamily.com,20/04/2022,Femal,6,Berlin,Germany,Silver,,30.00,yes,
+REC010,Loid,Forger,loid.forger@wise.org,2022-04-19,Male,32,Berlin,Germany,Gold,2023-10-24,1250,TRUE,
+REC011,Yor,Briar,yor.briar@assassin.net,Unknown,Woman,27,Berlin,Germany,Premium,2023-10-23,250,1,
+REC012,Peter,Parker,spidey@dailybugle.com,2001-08-10,M,22,New York,USA,Basic,2023-10-21,75.50,Yes,Photographer
+REC013,Bruce,Wayne,bruce.w@waynecorp.com,1972-02-17,Male,51,Gotham,USA,Platinum,2023-10-19,1000000.00,false,I am Batman
+REC014,Clark,Kent,super@reporter.com,1978-06-01,,45,Metropolis,USA,Gold,,99.99,TRUE,
+REC015,Jane  ,Smith,jane.smith@example.co.uk,12/05/2021,Female,25, Chiang Mai,Thailand,Basic,2023-10-25,500,1,Call back
+REC016,Diana,Prince,wonder.woman@olympus.com,N/A,FEMALE,999,Themyscira,Greece,Premium,2023-10-18,500.00,true,
+REC017,Tony,Stark,ironman@starkindustries.com,2008-05-02,Man,53,Malibu,USA,Platinum,2023-10-17,500000.00,1,Genius;Billionaire;Playboy;Philanthropist
+REC018,Natasha,Romanoff,black.widow@shield.gov,1984-12-03,F,39,Moscow,Russia,Gold,2023-10-16,NaN,Yes,
+REC019,Steve,Rogers,cap.america@avengers.org,1918-07-04,Male,105,Brooklyn,USA,Basic,2023-10-14,25.00,TRUE,
+REC020,Somsri,Jaidee,somsri.j@hotmail.com,2022-04-19,หญิง,29, bangkok ,Tehailand,Standard,2023-07-11,999,T,
+REC021,Chai,Deejai,c.deejai@company.co.th,2023-01-01,ชาย,38,Nonthaburi,Thailand,Basic,2023-10-10,1200.75,0,
+REC022,Mana,Rakthai,mana.r@gov.th,2020-11-11,Male,41,Khon Kaen,Thailand,Silver,2023-09-01,800,Yes,
+REC023,Ploy,Ngam,ploy.n@beauty.com,30/06/2022,  Female,22,Phuket,Thailand,Premium,2023-10-05,350.50,true,Influencer
+REC024,Artit,Sawang,artit.s@sunshine.co,2021-12-25,M,33,Chiang Rai,Thailand,Gold,2023-08-20,2200,1,
+REC025,Fon,Tok,fon.t@rainyday.com,2023-07-15,Not Specified,27,Songkhla,Thailand,Basic,2023-10-02,,no,
+REC026,Dao,Pragai,dao.p@starlight.net,10-Oct-2022,female,19,Pattaya,Thailand,Silver,2023-09-28,150.25,YES,
+REC027,Mek,Fah,mek.f@cloud.co,Invalid Date,MALE,31,Udon Thani,Thailand,Premium,2023-10-12,700,true,
+REC028,Fah,Sai,fah.s@clearsky.org,2022-02-02,F,24,Rayong,Thailand,Gold,2023-10-27,999.99,0,
+REC029,Wind,Flow,wind.f@breeze.com,2023-05-20,Prefer not to say,40,Surat Thani,Thailand,Basic,2023-10-08,-200,1,Refund issued
+REC030,Nam,Kang,nam.k@ice.co.th,2021-03-10,W,26,Nakhon Pathom,Thailand,Silver,2023-10-11,450,yes, (W for Woman?)
+REC031,  John,Doe,john.doe@example.com,2022-01-15,Male,30,Bangkok,Thailand,Premium,2023-10-26,1500.50,TRUE,Possible Duplicate
+REC032,Sakura,Kinomoto,sakura.cardcaptor@magical.jp,1998-04-01,Female,14,Tomoeda,Japan,Basic,2023-10-03,50.00,True,
+REC033,Peter,Pan,peterpan@neverland.org,Not Available,boy,NULL,London,UK,Free Tier,2023-01-01,0,f,
+REC034,Tinker,Bell,tink@pixiehollow.com,NULL,Fairy,NULL,Pixie Hollow,Neverland,Premium,2023-02-14,10.00,1,Fairy
+REC035,Wendy,Darling,wendy.d@londonhouse.uk,1900-01-01,Girl,13,London,UK,Basic,2023-03-20,20.00,No,
+REC036,Captain,Hook,captain.hook@jollyroger.sea,1850-06-06,Male,65,Neverland Sea,Neverland,Gold,-,3000.00,false,Pirate
+REC037,Smee,Pirate,smee.firstmate@jollyroger.sea,1860-07-07,m,60,Jolly Roger,Neverland,Basic,2023-04-10,5.00,Yes,
+REC038,Tiger,Lily,tiger.lily@native.nv,1880-08-08,FEMALE,16,Native Village,Neverland,Silver,2023-05-15,15.00,True,
+REC039,Lost,Boy1,lost.boy1@neverland.org,Unknown,Male,10,Neverland Forest,Neverland,Free Tier,2023-06-20,0.00,1,
+REC040,Lost,Boy2,lost.boy2@neverland.org,Unknown,Male,9,Neverland Forest,Neverland,Free Tier,2023-06-21,0.00,1,
+REC041,Michael,Darling,michael.d@londonhouse.uk,1902-03-03,boy,8,London,UK,Basic,2023-07-25,2.00,yes,
+REC042,John,Darling,john.d@londonhouse.uk,1901-02-02,boy,10,London,UK,Basic,2023-07-26,3.00,yes,
+REC043,Mary,Darling,mary.d@londonhouse.uk,1870-04-04,Woman,35,London,UK,Premium,2023-07-27,100.00,TRUE,Mother
+REC044,George,Darling,george.d@bankoflondon.uk,1868-05-05,Man,37,London,UK,Gold,2023-07-28,200.00,TRUE,Father
+REC045,Nana,Dog,nana@darlingpet.uk,1895-06-06,FEMALE,8,London,UK,Basic,2023-07-29,1.00,1,Dog Nurse (assuming female dog)
+REC046,User,One,user.one@domain.com,2023-11-01,Other,28,Sydney,Australia,Basic,2023-11-01,99.00,Active,New User
+REC047,User,Two,user.two@domain.com,2023-11-01,Female,34,Melbourne,Australia,Premium,2023-11-01,199.00,Inactive,
+REC048,User,Three,user.three@domain.com,2023-11-02,Male,45,Perth,Australia,Gold,2023-11-02,299.00,active,
+REC049,User,Four,user.four@domain.com,2023-11-02,Unknown,-1,Adelaide,Australia,Basic,2023-11-02,0.00,Active,Age Error
+REC050,test_user,Test,test@test.com,2023-05-05 10:00,Non-binary,33,Nonthaburi,Thailand,Basic,2023/10/10,"12,345",active,Hobbies:Reading-Coding
+REC051,Another,Person,another.p@email.org,01.01.2022,Male,99,Berlin,Ger,Silver,10.01.2023,€50.00,false,
+REC052,Someone,Else,someone.e@provider.net,20210815,female,22,Paris,France,basic,20230930,75,Yes,
+REC053,Extra,User,extra.u@unknown.com,No Date, ,None,Unknown City,Unknown Country,Free,None,-999,NULL,
+REC054,Spacey,McSpaceFace,spacey@galaxy.net,  2020-07-20  ,M, 42 ,  Mars Colony  , Mars , Galactic Premium ,  2023-07-20  , 9999.99 , TRUE , First Martian
+REC055,Data,EntryClerk,data.entry@example.com,2023-10-27,F,23,Local Town,Local Country,Temp,2023-10-27,10,1,Just Hired
+REC056,Error,Prone,error.prone@mistake.com,2023/02/30,1,30,Errorville,USA,Basic,2023-03-01,One Hundred,0,Many Errors (Gender as number)
+REC057,Duplicate,Entry,jane.smith@example.co.uk,12/05/2021,Female,25, Chiang Mai,Thailand,Basic,2023-10-25,500,1,Another Duplicate
+REC058,Missing,Info,missing@info.com,,,,,Mystery City,Mysteryland,Unknown,,,Missing All
+REC059,  Leading Space,LastName,leading.space@email.com,2022-03-03,  Male,33,Capital City,Country A,Gold,2023-08-08,888.88,true,
+REC060,Trailing Space  ,LastName,trailing.space@email.com,2022-04-04,Female  ,44,Metro Area,Country B,Silver,2023-09-09,999.99,false,
+REC061,Mixed,Case City,mixed.case@email.com,2022-05-05,male,55,NeW yOrK,uSa,Premium,2023-10-10,1111.11,1,
+REC062,No,Email,no.email@,2022-06-06,FEMALE,66,Old Town,Country C,Basic,2023-11-11,22.22,yes,Invalid Email
+REC063,Number,InName123,number.name@email.com,2022-07-07,M,21,Tech City,Country D,Gold,2023-12-12,333.33,0,
+REC064,Symbol,InCurrency,symbol.currency@email.com,2022-08-08,F,28,Finance Hub,Country E,Silver,2023-01-01,USD444.44,true,
+REC065,Future,DateReg,future.date@email.com,2025-01-01,Male,35,Tomorrow Land,Country F,Premium,2023-02-02,555.55,false,
+REC066,Old,LoginDate,old.login@email.com,2020-01-01,Female,42,Past City,Country G,Basic,2020-02-02,66.66,1,
+REC067,Zero,Spent,zero.spent@email.com,2021-02-02,Not disclosed,29,Budget Town,Country H,Free Tier,2023-03-03,0,yes,
+REC068,Max,AgeUser,max.age@email.com,1923-03-03,M,100,Century City,Country I,Gold,2023-04-04,777.77,0,
+REC069,Min,AgeUser,min.age@email.com,2018-04-04,F,5,Kidzania,Country J,Basic,2023-05-05,8.88,true,
+REC070,Active,StringTrue,active.strue@email.com,2019-05-05,Male,30,ActiveVille,Country K,Silver,2023-06-06,99.99,active,
+REC071,Inactive,StringFalse,inactive.sfalse@email.com,2017-06-06,Female,32,SleepyTown,Country L,Premium,2023-07-07,101.01,inactive,
+REC072,Alpha,NumericID1,alphanum.id1@email.com,2016-07-07,male,38,AlphaCity,Country M,Basic,2023-08-08,202.02,1,
+REC073,Beta,NumericID2,betanum.id2@email.com,2015-08-08,female,41,BetaTown,Country N,Gold,2023-09-09,303.03,0,
+REC074,Gamma,NumericID3,gammanum.id3@email.com,2014-09-09,MALE,45,GammaVille,Country O,Silver,2023-10-10,404.04,yes,
+REC075,Delta,NumericID4,deltanum.id4@email.com,2013-10-10,FEMALE,49,Delta Land,Country P,Premium,2023-11-11,505.05,false,
+REC076,Epsilon,NumericID5,epsilon.id5@email.com,2012-11-11,m,52,Epsilon World,Country Q,Basic,2023-12-12,606.06,1,
+REC077,Zeta,NumericID6,zetanum.id6@email.com,2011-12-12,f,55,Zeta City,Country R,Gold,2022-01-01,707.07,0,
+REC078,Eta,NumericID7,etanum.id7@email.com,2010-01-01,Male,58,Eta Town,Country S,Silver,2022-02-02,808.08,yes,
+REC079,Theta,NumericID8,thetanum.id8@email.com,2009-02-02,Female,61,Theta Ville,Country T,Premium,2022-03-03,909.09,false,
+REC080,Iota,NumericID9,iotanum.id9@email.com,2008-03-03,Other,64,Iota Land,Country U,Basic,2022-04-04,1010.10,1,
+REC081,Kappa,NumericID10,kappanum.id10@email.com,2007-04-04,Male,67,Kappa World,Country V,Gold,2022-05-05,1111.11,0,
+REC082,Lambda,User,lambda.user@email.com,2006-05-05,Female,70,Lambda City,Country W,Silver,2022-06-06,1212.12,yes,
+REC083,Mu,User,mu.user@email.com,2005-06-06,M,73,Mu Town,Country X,Premium,2022-07-07,1313.13,false,
+REC084,Nu,User,nu.user@email.com,2004-07-07,F,76,Nu Ville,Country Y,Basic,2022-08-08,1414.14,1,
+REC085,Xi,User,xi.user@email.com,2003-08-08,Male,79,Xi Land,Country Z,Gold,2022-09-09,1515.15,0,
+REC086,Omicron,User,omicron.user@email.com,2002-09-09,Female,82,Omicron World,Country AA,Silver,2022-10-10,1616.16,yes,
+REC087,Pi,User,pi.user@email.com,2001-10-10,Prefer to self-describe,85,Pi City,Country BB,Premium,2022-11-11,1717.17,false,
+REC088,Rho,User,rho.user@email.com,2000-11-11,Male,88,Rho Town,Country CC,Basic,2022-12-12,1818.18,1,
+REC089,Sigma,User,sigma.user@email.com,1999-12-12,Female,91,Sigma Ville,Country DD,Gold,2021-01-01,1919.19,0,
+REC090,Tau,User,tau.user@email.com,1998-01-01,MAN,94,Tau Land,Country EE,Silver,2021-02-02,2020.20,yes,
+REC091,Upsilon,User,upsilon.user@email.com,1997-02-02,WOMAN,97,Upsilon World,Country FF,Premium,2021-03-03,2121.21,false,
+REC092,Phi,User,phi.user@email.com,1996-03-03,M,20,Phi City,Country GG,Basic,2021-04-04,2222.22,1,Youngster
+REC093,Chi,User,chi.user@email.com,1995-04-04,F,23,Chi Town,Country HH,Gold,2021-05-05,2323.23,0,
+REC094,Psi,User,psi.user@email.com,1994-05-05,Agender,26,Psi Ville,Country II,Silver,2021-06-06,2424.24,yes,
+REC095,Omega,User,omega.user@email.com,1993-06-06,Genderfluid,29,Omega Land,Country JJ,Premium,2021-07-07,2525.25,false,
+REC096,Final,Boss,final.boss@gameover.com,1990-01-01,N/A,999,Last Level,Video Game,Ultimate,2020-12-31,99999,1,Challenge
+REC097,Corrupted,DataEntry,corrupt@data.err,#####,GDR,CorruptAge,CorruptCity,CorruptCountry,###,#####,#####,###,Corrupt Everything
+REC098,Empty,Row,,,,,,,,,,,,All Empty
+REC099,OneMore,Test,onemore.test@final.com,2023-10-28,Male,35,Test City,Test Country,Gold,2023-10-28,100.00,true,Almost Clean
+REC100,Last,Record,last.record@end.com,2023-10-29,Female,40,Final Town,Last Country,Premium,2023-10-29,200.00,1,The End
+record_id,first_name,last_name,email,registration_date,gender,age,city,country,subscription_tier,last_login_date,total_spent_thb,is_active,notes
+REC101,  Alpha,One,alpha.1@example.net,2021-Nov-01,MALE,28, Bangkok ,Thailand,Gold,2023-10-01,1234.50,1,Referral:REC001
+REC102,Beta ,Two,beta_two@company.org,10/02/2022,FEMALE,35,Chiangmai,THA,Silver,2023-10-02,987.00,0,VIP Customer
+REC103,Gamma,Three,gamma3@email.co.uk,2023-01-15T08:30:00Z,male,-10,Phuket Town,Thailand,Basic,2023-09-15,250.99,Yes,Birthday: Jan 15
+REC104,Delta,Four,delta.four@domain.com,2020-12-20,female,44,BKK City,Thailand,Premium,2023-10-04,,No,Contact via Line
+REC105,Epsilon,Five,epsilon.5@service.io,2022-May-05,Man,120,New York City,USA,Gold,,200.00,FALSE,Relocated from UK
+REC106,Zeta,Six,zeta.six@mail.com,2023/03/10, woman ,29,Singapore City,SGP,Silver,2023-10-06,$550.50,True,Likes cats
+REC107,Eta,Seven,eta_7@provider.net,August 1st 2022,F.,33,Madrid ES,Spain,Basic,2023-10-07,"1,200.75",No,Student Discount
+REC108,Theta,Eight,theta.eight@jpmail.co,2024-02-29,M,48,TOKYO,JAPAN,Premium,2023-10-08,60000,1,Frequent Buyer
+REC109,Iota,Nine,iota.9@web.com,30/04/2021,Genderqueer,22,Berlin DE,Germany,Silver,,45.50,yes,Artist
+REC110,Kappa,Ten,kappa_ten@example.com,2022/Jul/11,Male,39,BERLIN,DE,Gold,2023-10-10,1500,TRUE,Engineer
+REC111,Lambda,Eleven,lambda.11@email.org,Unknown Date,Prefer not to answer,26,Paris FR,France,Basic,2023-10-11,300,1,
+REC112,Mu,Twelve,mu_12@proton.me,Jan 1st, 2020,M,20,NYC,U.S.A,Silver,2023-10-12,88.88,Yes,Musician
+REC113,Nu,Thirteen,nu.13@outlook.com,1980-Mar-17,Male,43,Los Angeles,California USA,Platinum,2023-10-13,2000000.00,false,Investor
+REC114,Xi,Fourteen,xi.14@icloud.com,Nineteen Ninety Nine,N/A,24,London UK,United Kingdom,Gold,,150.00,TRUE,Student
+REC115,Beta ,Two,beta_two@company.org,10/02/2022,FEMALE,35,Chiangmai,THA,Silver,2023-10-02,987.00,0,VIP Customer - Duplicate REC102
+REC116,Omicron,Fifteen,omicron.15@domain.net,no date,Unknown,1000,Olympus Mons,Mars,Basic,2023-10-16,600.00,true,Possible Alien
+REC117,Pi,Sixteen,pi.16@stark.com,05.May.2010,Man,50,Malibu CA,US,Platinum,2023-10-17,750000.00,1,Tech CEO
+REC118,Rho,Seventeen,rho.17@shield.org,December.3.1985,F,38,Moscow RU,Russia Fed.,Gold,2023-10-18,DATA_MISSING,Yes,Agent
+REC119,Sigma,Eighteen,sigma.18@avengers.net,July 4th 1920,Male,103,Brooklyn NY,USA.,Basic,2023-10-19,30.00,TRUE,Veteran
+REC120,Aroon,Chaidee,aroon.c@thaiweb.co.th,2021-08-08,ชายไทย,31,กรุงเทพ,Thailand,Standard,2023-07-15,1150,T,Local Biz
+REC121,Buppha,Sawasdee,buppha.s@company-thai.com,2023-Feb-14,หญิงไทย,28,นนทบุรี,Thailand,Basic,2023-10-12,950.25,0,Marketing
+REC122,Chatchai,Yindee,chatchai.y@gov-mail.th,2019-Oct-10,M. (Male),45,ขอนแก่น เมืองเลย,Thailand,Silver,2023-09-05,750,Yes,Gov Officer
+REC123,Daranee,Sukjai,daranee.s@shop.th,20/07/2022,F (Female),24,ภูเก็ต,ประเทศไทย,Premium,2023-10-07,400.00,true,Online Seller
+REC124,Ekkachai,Manit,ekkachai.m@sunshine-group.co,2020-Dec-31,ma le,36,เชียงราย,Thai,Gold,2023-08-22,2500,1,Manager
+REC125,Kannika,Jaiyen,kannika.j@rainy-season.com,2023-Aug-01,Not Sure,26,สงขลา,TH,Basic,2023-10-03,,no,Freelancer
+REC126,Lalita,Saengdao,lalita.s@star-light.net,15-Sep-2022,female.,20,Pattaya Chonburi,Thailand,Silver,2023-09-30,175.50,YES,Student
+REC127,Mongkol,Fahkram,mongkol.f@cloud-storage.co,Error Date,M!,30,อุดรธานี,THAI,Premium,2023-10-14,800,true,IT Support
+REC128,Nisa,Fahsai,nisa.f@clearskies.org,2021-Mar-03,Fem,25,ระยอง,Thailandia,Gold,2023-10-28,1050.00,0,Designer
+REC129,Pakin,Lomrien,pakin.l@breeze-tech.com,2023-Jun-10,Two-spirit,42,สุราษฎร์ธานี,Thailand,Basic,2023-10-09,-150.00,1,Refund needed
+REC130,Waranya,Namkhang,waranya.n@icecold.co.th,2020-Apr-05,W (Woman),27,นครปฐม,ไทยแลนด์,Silver,2023-10-15,500,yes,Chef
+REC131,  Alpha,One,alpha.1@example.net,2021-Nov-01,MALE,28, Bangkok ,Thailand,Gold,2023-10-01,1234.50,1,Possible Duplicate - REC101
+REC132,Himura,Kenshin,battousai@meiji.jp,1849-Jun-20,Male,28 (Apparent),Kyoto,Japan,Wanderer,2023-10-04,10.00,True,Rurouni
+REC133,Jack,Sparrow,captain.jack@pearl.sea,Unknown,Male,NULL,Caribbean Sea,Pirate Republic,Captain Tier,Never,10000,f,Savvy?
+REC134,Elizabeth,Swann,e.swann@portroyal.gov,1700s,Fairy Queen,NULL,Port Royal,British Empire,Governor Daughter,2023-02-15,100.00,1,Became Pirate King
+REC135,Will,Turner,will.t@blacksmith.shop,1700s early,Boy (young man),20s,Port Royal,British Empire,Basic,2023-03-21,25.00,No,Cursed
+REC136,Davy,Jones,d.jones@flyingdutchman.sea,1600s,Male (Cephalopod-like),Timeless,The Locker,Damned Souls Ltd.,Gold,-,Infinity,false,Organ Player
+REC137,Bootstrap,Bill,bootstrap.bill@barnacle.sea,1600s late,M.,Ageless,Flying Dutchman,Damned Souls Ltd.,Basic,2023-04-11,0.50,Yes,Part of the ship
+REC138,Tia,Dalma,tia.dalma@calypso.god,Primordial,FEMALE (Goddess),Eternal,Pantheon,Deity Tier,When she wills,Priceless,True,Bound in human form
+REC139,Anakin,Skywalker,chosenone@jeditemple.org,41 BBY,Male,9 (then older),Tatooine,Galactic Republic,Padawan,Various,0.00,1,Hates sand
+REC140,Padme,Amidala,p.amidala@naboo.gov,46 BBY,Female,14 (Queen),Naboo,Galactic Republic,Senator,Various,0.00,1,Sad
+REC141,Obi-Wan,Kenobi,ben.kenobi@jedicouncil.net,57 BBY,Male,25 (then older),Stewjon / Coruscant,Galactic Republic,Master Jedi,Various,1.00,yes,Hello there
+REC142,Han,Solo,han.solo@falcon.ship,29 BBY,Male,30s,Corellia,Smuggler Inc.,Basic,2023-07-27, Debt ,yes,Scoundrel
+REC143,Leia,Organa,leia.o@alderaan.gov,19 BBY,Woman,19 (then older),Alderaan / Yavin 4,Rebel Alliance,Princess Tier,Various,1000.00,TRUE,Hope
+REC144,Luke,Skywalker,luke.s@tatooinefarm.boy,19 BBY,Man,19 (then older),Tatooine / Dagobah,Rebel Alliance,Farmboy Tier,Various,20.00,TRUE,New Hope
+REC145,Chewbacca,Wookiee,chewie@kashyyyk.fur,200 BBY,MALE (Wookiee),200+,Kashyyyk,Millennium Falcon Co.,Basic,2023-07-29,RRWWWGG!,1,Let the Wookiee win
+REC146,User,Five,user.five@anotherdomain.com,2023/11/03,0,29,Brisbane,Australia,Basic,2023-11-03,150.00,Active,New Client
+REC147,User,Six,user.six@anotherdomain.com,2023.11.03,1,36,Canberra,Oz,Premium,2023.11.03,250.00,Inactive,
+REC148,User,Seven,user.seven@anotherdomain.com,3 Nov 2023,X,42,Darwin,AU,Gold,03/11/2023,350.00,active,
+REC149,User,Eight,user.eight@anotherdomain.com,November 4, 2023,FEM,Zero,Hobart,AUS,Basic,Nov 4, 2023,-10.00,Active,Age and Spent Error
+REC150,another_test_user,Testington,test2@test.net,2023-06-06 14:30,Fluid,30,Pattani,TH,Basic,2023/10/11,"1,234.567",yes,Hobbies:Gaming;Travel
+REC151,Yet,Another,y.another@emailprovider.co,02.Feb.2021,Male,101,Heaven,Afterlife,Angel Tier,Always,Infinite,false,Deceased but active?
+REC152,Some,One New,s.new@newmail.com,20220920,female,21,Hades,Underworld,Lost Soul,Never,0,Yes,Trapped
+REC153,Extra,Special User,esu@vip.only,No Valid Date,Declined to state,None,Valhalla,Warrior Class,When summoned,-1000,NULL,Legendary
+REC154,Data,Anomoly,data.anomoly@error.log,  2019-01-01  , ?, 9999 ,  Glitched City  , System Error , Error Tier ,  Never  , CorruptedValue , ERROR_STATE , System Glitch
+REC155,Final,Check,final.check@example.com,2023-10-28,Female,24,Validation Town,Review Country,Standard,2023-10-28,50,1,Ready for QA
+REC156,Critical,Fail,critical.fail@broken.com,2023/XX/YY,XYZ,NaN,BrokenVille,Nowhere,Freefall,Date Error,SYSTEM_ERROR,0,Total Breakdown
+REC157,Duplicate,Again,beta_two@company.org,10/02/2022,FEMALE,35,Chiangmai,THA,Silver,2023-10-02,987.00,0,Super Duplicate REC102/REC115
+REC158,No,FirstName,noname@info.com,2022-01-01,Male,,Mystery City East,Mysterylandia,Unknown Tier,Yesterday,123.45,,Missing First Name
+REC159,  Spaced Out,LastName,spaced.out@email.com,2021-04-04,  Female  ,31,Capital City West,Country Z,Gold Plus,2023-07-07,777.77,true,Extra Spaces Everywhere
+REC160,ALLCAPS,NAME,all.caps@email.com,2020-05-05,MALE,50,METRO CITY,USA MAJOR,PREMIUM PLUS,2023-06-06,10000.00,false,SHOUTING
+REC161,no,lowercase,noupper@email.com,2019-06-06,female,20,old town south,country abc,basic minus,2023-05-05,10.00,yes,whispering
+REC162,Email,MissingAt,email.noatdomain.com,2018-07-07,M,60,Tech City North,Country DEF,Gold Standard,2023-04-04,250.00,0,Invalid Email Format
+REC163,Name,WithNumbers123,name.numbers@email.com,2017-08-08,F3male,25,Digital City,Country GHI,Silver Star,2023-03-03,300.00,true,Gender typo
+REC164,Currency,SymbolIssue,currency.issue@email.com,2016-09-09,Male,32,Finance Hub East,Country JKL,Premium Gold,2023-02-02,THB5000.00,false,Currency in value
+REC165,Date,RegFuture,date.future@email.com,2099-12-31,Female,36,Tomorrow Land West,Country MNO,Basic Future,2023-01-01,600.00,1,Registration from future
+REC166,Login,DatePast,login.past@email.com,2000-01-01,Male,46,Past City Central,Country PQR,Gold Past,1999-12-31,70.00,yes,Login before reg
+REC167,Zero,ValueRecord,zero.value@email.com,2022-02-02,F,28,Budget Town North,Country STU,Free Access,2023-11-01,Amount:0,no,
+REC168,Hundred,PlusAge,hundred.plus@email.com,1900-03-03,M,123,Century City South,Country VWX,Gold Century,2023-10-31,800.00,0,Very old
+REC169,Under,FiveAge,under.five@email.com,2020-04-04,Child,3,Kidzania West,Country YZA,Basic Child,2023-09-30,5.00,true,Too young?
+REC170,Active,Status Num,active.num@email.com,2019-05-05,Female,33,ActiveVille East,Country BCD,Silver Active,2023-08-31,150.00,2,Invalid Active Status
+REC171,Inactive,Status Text,inactive.text@email.com,2018-06-06,Male,34,SleepyTown West,Country EFG,Premium Inactive,2023-07-31,200.00,DISABLED,Text Active Status
+REC172,AlphaNumeric,IDRecA,alphanum.a@email.com,2017-07-07,F,39,AlphaCity South,Country HIJ,Basic Alpha,2023-06-30,250.50,1,
+REC173,BetaNumeric,IDRecB,betanum.b@email.com,2016-08-08,M,40,BetaTown North,Country KLM,Gold Beta,2023-05-31,350.75,0,
+REC174,GammaNumeric,IDRecC,gammanum.c@email.com,2015-09-09,Female,41,GammaVille West,Country NOP,Silver Gamma,2023-04-30,450.25,yes,
+REC175,DeltaNumeric,IDRecD,deltanum.d@email.com,2014-10-10,Male,42,Delta Land East,Country QRS,Premium Delta,2023-03-31,550.99,false,
+REC176,EpsilonNumeric,IDRecE,epsilon.e@email.com,2013-11-11,F,43,Epsilon World South,Country TUV,Basic Epsilon,2023-02-28,650.10,1,
+REC177,ZetaNumeric,IDRecZ,zetanum.z@email.com,2012-12-12,M,44,Zeta City North,Country WXY,Gold Zeta,2022-01-31,750.20,0,
+REC178,EtaNumeric,IDRecH,etanum.h@email.com,2011-01-01,Female,45,Eta Town West,Country ZAB,Silver Eta,2022-02-28,850.30,yes,
+REC179,ThetaNumeric,IDRec8,thetanum.8@email.com,2010-02-02,Male,46,Theta Ville East,Country CDE,Premium Theta,2022-03-31,950.40,false,
+REC180,IotaNumeric,IDRec9,iotanum.9@email.com,2009-03-03,F,47,Iota Land South,Country FGH,Basic Iota,2022-04-30,1050.50,1,
+REC181,KappaNumeric,IDRec10,kappanum.10@email.com,2008-04-04,M,48,Kappa World North,Country IJK,Gold Kappa,2022-05-31,1150.60,0,
+REC182,LambdaSystem,UserSysL,lambda.sys@internal.com,2007-05-05,System,99,System City,Internal,Admin Tier,2022-06-30,0.00,yes,Internal Account
+REC183,MuSystem,UserSysM,mu.sys@internal.com,2006-06-06,SYSTEM,99,System Town,Internal,Admin Tier,2022-07-31,0.00,false,Internal Account
+REC184,NuSystem,UserSysN,nu.sys@internal.com,2005-07-07,Service,99,System Ville,Internal,Admin Tier,2022-08-31,0.00,1,Internal Account
+REC185,XiSystem,UserSysX,xi.sys@internal.com,2004-08-08,SERVICE,99,System Land,Internal,Admin Tier,2022-09-30,0.00,0,Internal Account
+REC186,OmicronSystem,UserSysO,omicron.sys@internal.com,2003-09-09,Bot,99,System World,Internal,Admin Tier,2022-10-31,0.00,yes,Automated Account
+REC187,PiSystem,UserSysP,pi.sys@internal.com,2002-10-10,BOT,99,System Galaxy,Internal,Admin Tier,2022-11-30,0.00,false,Automated Account
+REC188,Rho Test,UserTestR,rho.test@testing.com,2001-11-11,Tester,30,Test City QA,Testing Env,QA Tier,2022-12-31,1.00,1,QA Account
+REC189,Sigma Test,UserTestS,sigma.test@testing.com,2000-12-12,TESTER,30,Test Town QA,Testing Env,QA Tier,2021-01-31,1.00,0,QA Account
+REC190,Tau Dev,UserDevT,tau.dev@dev.com,1999-01-01,Developer,30,Dev City Alpha,Dev Env,Dev Tier,2021-02-28,2.00,yes,Dev Account
+REC191,Upsilon Dev,UserDevU,upsilon.dev@dev.com,1998-02-02,DEVELOPER,30,Dev Town Beta,Dev Env,Dev Tier,2021-03-31,2.00,false,Dev Account
+REC192,Phi Stage,UserStageP,phi.stage@staging.com,1997-03-03,Staging,30,Stage City Gamma,Staging Env,Stage Tier,2021-04-30,3.00,1,Staging Account
+REC193,Chi Stage,UserStageC,chi.stage@staging.com,1996-04-04,STAGING,30,Stage Town Delta,Staging Env,Stage Tier,2021-05-31,3.00,0,Staging Account
+REC194,Psi Prod,UserProdP,psi.prod@production.com,1995-05-05,Production,30,Prod City Live,Production Env,Prod Tier,2021-06-30,4.00,yes,Production User
+REC195,Omega Prod,UserProdO,omega.prod@production.com,1994-06-06,PRODUCTION,30,Prod Town Live,Production Env,Prod Tier,2021-07-31,4.00,false,Production User
+REC196,Ultimate,CleanRecord,ultimate.clean@perfect.com,2023-01-01,Other,33,Perfect City,Clean Country,Platinum,2023-10-30,5000.00,1,Model Record
+REC197,Highly,Corrupted Record,%%%corrupt$$$@data.err,INVALID_DATE_FORMAT,999GENDER,AGE_ERROR,#####CITY#####,COUNTRY_SYMBOL!@#,TIER_FAIL,LOGIN_ERROR,AMOUNT_INVALID,STATUS_CODE_X,NOTES_ARE_GARBAGE
+REC198,Almost,Empty,almost.empty@minimal.com,2023-02-02,,,,,,,minimal data,
+REC199,OneLast,Dirty,onelast.dirty@finalround.com,2023-Mar-03, Ma le,35 to 40,Test City Beta,Test Country B,Gold Tier Test,2023-Oct-28,approx 150.00,maybe true,Needs thorough check
+REC200,TheVery,End,the.very.end@finishline.com,2023-Apr-04,Female,40,Final Town Omega,Last Country Z,Omega Tier,2023-Oct-29,250.00,1,Absolutely The End

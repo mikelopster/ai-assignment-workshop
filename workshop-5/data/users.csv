@@ -1,0 +1,102 @@
+user_id,user_age_group,user_gender,user_location_city,user_location_country,user_location_segment,user_signup_date,user_signup_device,user_loyalty_tier,user_primary_language,user_explicit_preferred_categories
+U00001,25-34,Female,Bangkok,Thailand,Urban,2022-03-15,Mobile_Android,Silver,th,"Fashion;Beauty"
+U00002,18-24,Male,Chiang Mai,Thailand,Urban,2023-01-20,Mobile_iOS,Bronze,th,Electronics
+U00003,35-44,Male,Nonthaburi,Thailand,Suburban,2021-11-05,Desktop,Gold,th,"Home & Kitchen;Books"
+U00004,45-54,Female,Phuket,Thailand,Urban,2022-08-10,Mobile_Android,Silver,en,"Travel;Sports"
+U00005,25-34,Other,Bangkok,Thailand,Urban,2023-05-01,Mobile_iOS,Bronze,th,
+U00006,Unknown,Unknown,Khon Kaen,Thailand,Rural,2022-06-22,Desktop,Bronze,th,
+U00007,55+,Male,Bangkok,Thailand,Urban,2020-07-17,Desktop,Platinum,th,"Electronics;Gardening"
+U00008,18-24,Female,Chonburi,Thailand,Suburban,2023-02-11,Mobile_Android,Bronze,th,Beauty
+U00009,35-44,Female,Singapore,Singapore,Urban,2021-09-30,Mobile_iOS,Gold,en,"Fashion;Luxury"
+U00010,25-34,Male,Nakhon Ratchasima,Thailand,Rural,2022-10-03,Desktop,Silver,th,Automotive
+U00011,18-24,Male,Bangkok,Thailand,Urban,2023-03-01,Mobile_Android,Bronze,th,"Games;Electronics"
+U00012,35-44,Female,Samut Prakan,Thailand,Suburban,2022-01-15,Mobile_iOS,Silver,th,"Home & Kitchen;Kids"
+U00013,25-34,Male,Pathum Thani,Thailand,Suburban,2021-05-20,Desktop,Gold,th,"Sports;Health"
+U00014,45-54,Male,Surat Thani,Thailand,Urban,2020-12-01,Mobile_Android,Silver,th,
+U00015,18-24,Female,Bangkok,Thailand,Urban,2023-04-10,Mobile_iOS,Bronze,th,Fashion
+U00016,25-34,Female,Chiang Mai,Thailand,Urban,2022-11-25,Desktop,Silver,th,"Books;Stationery"
+U00017,35-44,Unknown,Nonthaburi,Thailand,Suburban,2021-08-19,Mobile_Android,Bronze,th,Pets
+U00018,55+,Female,Phuket,Thailand,Urban,2020-02-14,Mobile_iOS,Platinum,en,"Home & Kitchen;Antiques"
+U00019,25-34,Male,Bangkok,Thailand,Urban,2023-06-05,Desktop,Bronze,th,Electronics
+U00020,18-24,Male,Hat Yai,Thailand,Urban,2022-07-07,Mobile_Android,Silver,th,
+U00021,35-44,Female,Udon Thani,Thailand,Rural,2021-01-22,Mobile_iOS,Gold,th,"Fashion;Beauty;Kids"
+U00022,25-34,Male,Kuala Lumpur,Malaysia,Urban,2022-04-18,Desktop,Silver,ms,"Electronics;Games"
+U00023,45-54,Female,Bangkok,Thailand,Urban,2020-10-30,Mobile_Android,Gold,th,"Health;Supplements"
+U00024,18-24,Other,Chiang Mai,Thailand,Urban,2023-07-14,Mobile_iOS,Bronze,th,Art
+U00025,25-34,Male,Rayong,Thailand,Suburban,2022-09-09,Desktop,Bronze,th,
+U00026,35-44,Male,Bangkok,Thailand,Urban,2021-04-03,Mobile_Android,Silver,th,"Sports;Outdoor"
+U00027,Unknown,Male,Nakhon Sawan,Thailand,Rural,2022-05-28,Mobile_iOS,Bronze,th,Agriculture
+U00028,18-24,Female,Pattaya,Thailand,Urban,2023-01-05,Desktop,Silver,th,"Fashion;Accessories"
+U00029,25-34,Female,Bangkok,Thailand,Urban,2021-12-12,Mobile_Android,Gold,th,"Beauty;Home & Kitchen"
+U00030,45-54,Male,Phitsanulok,Thailand,Urban,2020-08-20,Mobile_iOS,Platinum,th,Electronics
+U00031,25-34,Male,Jakarta,Indonesia,Urban,2022-02-22,Desktop,Silver,id,"Fashion;Sports"
+U00032,18-24,Female,Nonthaburi,Thailand,Suburban,2023-05-17,Mobile_Android,Bronze,th,
+U00033,35-44,Male,Bangkok,Thailand,Urban,2021-06-25,Mobile_iOS,Silver,th,"Books;Movies"
+U00034,55+,Female,Chiang Mai,Thailand,Urban,2020-04-01,Desktop,Gold,th,"Gardening;Crafts"
+U00035,25-34,Unknown,Phuket,Thailand,Urban,2022-11-11,Mobile_Android,Bronze,en,
+U00036,18-24,Male,Songkhla,Thailand,Urban,2023-02-02,Mobile_iOS,Bronze,th,Games
+U00037,35-44,Female,Bangkok,Thailand,Urban,2021-10-10,Desktop,Silver,th,"Kids;Toys;Education"
+U00038,25-34,Male,Samut Sakhon,Thailand,Suburban,2022-07-21,Mobile_Android,Gold,th,Automotive
+U00039,45-54,Female,Khon Kaen,Thailand,Rural,2020-09-05,Mobile_iOS,Silver,th,
+U00040,18-24,Female,Bangkok,Thailand,Urban,2023-06-30,Desktop,Bronze,th,"Beauty;Fashion"
+U00041,25-34,Male,Chonburi,Thailand,Suburban,2022-01-01,Mobile_Android,Platinum,th,"Electronics;Home Improvement"
+U00042,35-44,Other,Chiang Mai,Thailand,Urban,2021-03-14,Mobile_iOS,Bronze,th,
+U00043,55+,Male,Nonthaburi,Thailand,Suburban,2020-01-10,Desktop,Gold,th,"Books;History"
+U00044,25-34,Female,Ho Chi Minh City,Vietnam,Urban,2022-08-29,Mobile_Android,Silver,vi,"Fashion;Cosmetics"
+U00045,18-24,Male,Bangkok,Thailand,Urban,2023-04-22,Mobile_iOS,Bronze,th,Sports
+U00046,35-44,Male,Nakhon Pathom,Thailand,Suburban,2021-07-07,Desktop,Silver,th,
+U00047,25-34,Female,Surat Thani,Thailand,Urban,2022-12-25,Mobile_Android,Gold,th,"Home & Kitchen;Decor"
+U00048,45-54,Female,Bangkok,Thailand,Urban,2020-06-15,Mobile_iOS,Platinum,en,"Travel;Photography"
+U00049,18-24,Unknown,Ubon Ratchathani,Thailand,Rural,2023-03-28,Desktop,Bronze,th,
+U00050,25-34,Male,Ayutthaya,Thailand,Suburban,2022-10-19,Mobile_Android,Silver,th,"Electronics;Gadgets"
+user_id,user_age_group,user_gender,user_location_city,user_location_country,user_location_segment,user_signup_date,user_signup_device,user_loyalty_tier,user_primary_language,user_explicit_preferred_categories
+U00051,35-44,Female,Manila,Philippines,Urban,2021-02-18,Mobile_iOS,Silver,en,"Fashion;Beauty;Home Decor"
+U00052,18-24,Male,Bangkok,Thailand,Urban,2023-08-01,Mobile_Android,Bronze,th,"Gaming Consoles;PC Parts"
+U00053,45-54,Male,Chiang Rai,Thailand,Rural,2020-11-11,Desktop,Gold,th,Farming Supplies
+U00054,25-34,Female,Nakhon Si Thammarat,Thailand,Urban,2022-03-22,Mobile_iOS,Silver,th,"Skincare;Makeup"
+U00055,Unknown,Male,Bangkok,Thailand,Urban,2023-01-03,Desktop,Bronze,th,
+U00056,18-24,Female,Surabaya,Indonesia,Urban,2022-09-15,Mobile_Android,Bronze,id,"K-Pop Merchandise;Stationery"
+U00057,55+,Female,Pattani,Thailand,Rural,2020-07-01,Desktop,Platinum,th,"Religious Items;Books"
+U00058,25-34,Male,Bangkok,Thailand,Urban,2023-04-28,Mobile_iOS,Silver,th,"Smart Home Devices;Wearables"
+U00059,35-44,Female,Nonthaburi,Thailand,Suburban,2021-08-08,Desktop,Gold,th,"Cooking Appliances;Baking Supplies"
+U00060,18-24,Male,Phnom Penh,Cambodia,Urban,2022-10-20,Mobile_Android,Bronze,km,Streetwear
+U00061,25-34,Other,Bangkok,Thailand,Urban,2023-05-12,Mobile_iOS,Bronze,th,
+U00062,45-54,Female,Lampang,Thailand,Rural,2021-01-05,Desktop,Silver,th,"Handicrafts;Local Products"
+U00063,18-24,Male,Chiang Mai,Thailand,Urban,2023-02-25,Mobile_Android,Bronze,th,Musical Instruments
+U00064,35-44,Male,Singapore,Singapore,Urban,2020-09-10,Mobile_iOS,Platinum,en,"Watches;Men's Accessories"
+U00065,25-34,Female,Ubon Ratchathani,Thailand,Rural,2022-06-01,Desktop,Silver,th,"Baby Products;Maternity Wear"
+U00066,55+,Male,Bangkok,Thailand,Urban,2019-12-20,Desktop,Gold,th,"Health Supplements;Mobility Aids"
+U00067,18-24,Female,Phetchaburi,Thailand,Suburban,2023-07-03,Mobile_Android,Bronze,th,"DIY Kits;Art Supplies"
+U00068,25-34,Male,Yangon,Myanmar,Urban,2022-04-05,Mobile_iOS,Silver,my,"Mobile Phones;Phone Accessories"
+U00069,35-44,Female,Bangkok,Thailand,Urban,2021-11-17,Desktop,Gold,th,"Pet Food;Pet Toys;Pet Care"
+U00070,Unknown,Female,Chachoengsao,Thailand,Suburban,2022-08-14,Mobile_Android,Bronze,th,
+U00071,18-24,Male,Pathum Thani,Thailand,Suburban,2023-03-30,Mobile_iOS,Bronze,th,"Board Games;Puzzles"
+U00072,25-34,Female,Kuala Lumpur,Malaysia,Urban,2021-05-23,Desktop,Silver,ms,"Modest Fashion;Hijabs"
+U00073,45-54,Male,Nakhon Pathom,Thailand,Suburban,2020-10-02,Mobile_Android,Gold,th,"Car Care;Tools"
+U00074,18-24,Female,Bangkok,Thailand,Urban,2023-06-11,Mobile_iOS,Bronze,th,Snacks;Imported Foods
+U00075,25-34,Male,Rayong,Thailand,Suburban,2022-01-28,Desktop,Silver,th,"Fitness Equipment;Sportswear"
+U00076,35-44,Unknown,Suphan Buri,Thailand,Rural,2021-09-02,Mobile_Android,Bronze,th,
+U00077,55+,Male,Chiang Mai,Thailand,Urban,2020-03-17,Mobile_iOS,Platinum,th,"Cameras;Photography Gear"
+U00078,25-34,Female,Bangkok,Thailand,Urban,2022-12-07,Desktop,Gold,th,"Jewelry;Accessories"
+U00079,18-24,Male,Nonthaburi,Thailand,Suburban,2023-01-24,Mobile_Android,Bronze,th,"Anime Merchandise;Collectibles"
+U00080,45-54,Female,Bandung,Indonesia,Urban,2020-08-08,Mobile_iOS,Silver,id,"Home Organization;Storage Solutions"
+U00081,25-34,Male,Bangkok,Thailand,Urban,2022-05-05,Desktop,Silver,th,"Coffee Beans;Tea Leaves;Brewing Kits"
+U00082,18-24,Female,Chonburi,Thailand,Suburban,2023-04-14,Mobile_Android,Bronze,th,Stationery
+U00083,35-44,Male,Hanoi,Vietnam,Urban,2021-07-19,Mobile_iOS,Gold,vi,"Tech Gadgets;Audio Equipment"
+U00084,55+,Female,Phuket,Thailand,Urban,2020-02-02,Desktop,Platinum,en,"Luxury Skincare;Spa Products"
+U00085,25-34,Other,Chiang Mai,Thailand,Urban,2022-11-30,Mobile_Android,Bronze,th,
+U00086,18-24,Male,Bangkok,Thailand,Urban,2023-08-10,Mobile_iOS,Bronze,th,eBooks
+U00087,35-44,Female,Samut Prakan,Thailand,Suburban,2021-12-25,Desktop,Silver,th,"Party Supplies;Gift Wrap"
+U00088,25-34,Male,Nakhon Ratchasima,Thailand,Rural,2022-06-18,Mobile_Android,Gold,th,"Outdoor Gear;Camping Equipment"
+U00089,45-54,Male,Bangkok,Thailand,Urban,2020-05-10,Mobile_iOS,Silver,th,Wine;Spirits
+U00090,18-24,Female,Khon Kaen,Thailand,Rural,2023-03-03,Desktop,Bronze,th,"Fashion Accessories;Phone Cases"
+U00091,25-34,Female,Surat Thani,Thailand,Urban,2022-02-10,Mobile_Android,Platinum,th,"Bags;Wallets;Shoes"
+U00092,35-44,Male,Udon Thani,Thailand,Rural,2021-04-21,Mobile_iOS,Bronze,th,
+U00093,55+,Male,Bangkok,Thailand,Urban,2020-01-25,Desktop,Gold,th,"Antiques;Collectibles (Non-Anime)"
+U00094,25-34,Female,Cebu City,Philippines,Urban,2022-10-01,Mobile_Android,Silver,en,"Beachwear;Travel Accessories"
+U00095,18-24,Male,Pattaya,Thailand,Urban,2023-05-26,Mobile_iOS,Bronze,th,"Skateboards;Action Sports Gear"
+U00096,35-44,Female,Bangkok,Thailand,Urban,2021-08-23,Desktop,Silver,th,"Organic Food;Vegan Products"
+U00097,25-34,Male,Nonthaburi,Thailand,Suburban,2022-07-04,Mobile_Android,Gold,th,"Power Tools;Home Improvement Supplies"
+U00098,45-54,Unknown,Chiang Mai,Thailand,Urban,2020-06-06,Mobile_iOS,Silver,th,
+U00099,18-24,Female,Bangkok,Thailand,Urban,2023-07-20,Desktop,Bronze,th,"Cosmetics;Korean Beauty"
+U00100,25-34,Male,Phitsanulok,Thailand,Urban,2022-09-27,Mobile_Android,Silver,th,"Motorcycle Parts;Riding Gear"
