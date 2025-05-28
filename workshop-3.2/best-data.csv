@@ -96,7 +96,6 @@ REC094,Psi,User,psi.user@email.com,1994-05-05,Agender,26,Psi Ville,Country II,Si
 REC095,Omega,User,omega.user@email.com,1993-06-06,Genderfluid,29,Omega Land,Country JJ,Premium,2021-07-07,2525.25,false,
 REC096,Final,Boss,final.boss@gameover.com,1990-01-01,N/A,999,Last Level,Video Game,Ultimate,2020-12-31,99999,1,Challenge
 REC097,Corrupted,DataEntry,corrupt@data.err,#####,GDR,CorruptAge,CorruptCity,CorruptCountry,###,#####,#####,###,Corrupt Everything
-REC098,Empty,Row,,,,,,,,,,,,All Empty
 REC099,OneMore,Test,onemore.test@final.com,2023-10-28,Male,35,Test City,Test Country,Gold,2023-10-28,100.00,true,Almost Clean
 REC100,Last,Record,last.record@end.com,2023-10-29,Female,40,Final Town,Last Country,Premium,2023-10-29,200.00,1,The End
 record_id,first_name,last_name,email,registration_date,gender,age,city,country,subscription_tier,last_login_date,total_spent_thb,is_active,notes
@@ -111,7 +110,6 @@ REC108,Theta,Eight,theta.eight@jpmail.co,2024-02-29,M,48,TOKYO,JAPAN,Premium,202
 REC109,Iota,Nine,iota.9@web.com,30/04/2021,Genderqueer,22,Berlin DE,Germany,Silver,,45.50,yes,Artist
 REC110,Kappa,Ten,kappa_ten@example.com,2022/Jul/11,Male,39,BERLIN,DE,Gold,2023-10-10,1500,TRUE,Engineer
 REC111,Lambda,Eleven,lambda.11@email.org,Unknown Date,Prefer not to answer,26,Paris FR,France,Basic,2023-10-11,300,1,
-REC112,Mu,Twelve,mu_12@proton.me,Jan 1st, 2020,M,20,NYC,U.S.A,Silver,2023-10-12,88.88,Yes,Musician
 REC113,Nu,Thirteen,nu.13@outlook.com,1980-Mar-17,Male,43,Los Angeles,California USA,Platinum,2023-10-13,2000000.00,false,Investor
 REC114,Xi,Fourteen,xi.14@icloud.com,Nineteen Ninety Nine,N/A,24,London UK,United Kingdom,Gold,,150.00,TRUE,Student
 REC115,Beta ,Two,beta_two@company.org,10/02/2022,FEMALE,35,Chiangmai,THA,Silver,2023-10-02,987.00,0,VIP Customer - Duplicate REC102
@@ -148,7 +146,6 @@ REC145,Chewbacca,Wookiee,chewie@kashyyyk.fur,200 BBY,MALE (Wookiee),200+,Kashyyy
 REC146,User,Five,user.five@anotherdomain.com,2023/11/03,0,29,Brisbane,Australia,Basic,2023-11-03,150.00,Active,New Client
 REC147,User,Six,user.six@anotherdomain.com,2023.11.03,1,36,Canberra,Oz,Premium,2023.11.03,250.00,Inactive,
 REC148,User,Seven,user.seven@anotherdomain.com,3 Nov 2023,X,42,Darwin,AU,Gold,03/11/2023,350.00,active,
-REC149,User,Eight,user.eight@anotherdomain.com,November 4, 2023,FEM,Zero,Hobart,AUS,Basic,Nov 4, 2023,-10.00,Active,Age and Spent Error
 REC150,another_test_user,Testington,test2@test.net,2023-06-06 14:30,Fluid,30,Pattani,TH,Basic,2023/10/11,"1,234.567",yes,Hobbies:Gaming;Travel
 REC151,Yet,Another,y.another@emailprovider.co,02.Feb.2021,Male,101,Heaven,Afterlife,Angel Tier,Always,Infinite,false,Deceased but active?
 REC152,Some,One New,s.new@newmail.com,20220920,female,21,Hades,Underworld,Lost Soul,Never,0,Yes,Trapped
